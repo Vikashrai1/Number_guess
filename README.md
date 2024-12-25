@@ -10,7 +10,7 @@ A simple Python-based number guessing game.
 
 
 ##  project URL
-[https://github.com/Vikashrai1/Number_guess](https://github.com/Vikashrai1/Number_guess)
+[https://github.com/Vikashrai1/Number_guess] (https://github.com/Vikashrai1/Number_guess)
 
 
 
