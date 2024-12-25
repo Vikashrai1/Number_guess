@@ -8,8 +8,8 @@ A simple Python-based number guessing game.
 - Guess a number between 1 and 100.
 - The program will guide you to guess higher or lower until you find the correct number.
 
-## Project URL
-## Project URL
+
+##  project URL
 [https://github.com/Vikashrai1/Number_guess](https://github.com/Vikashrai1/Number_guess)
 
 
