@@ -9,7 +9,9 @@ A simple Python-based number guessing game.
 - The program will guide you to guess higher or lower until you find the correct number.
 
 ## Project URL
-https://github.com/Vikashrai1/Number_guess
+## Project URL
+[https://github.com/Vikashrai1/Number_guess](https://github.com/Vikashrai1/Number_guess)
+
 
 
 
